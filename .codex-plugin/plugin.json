@@ -8,5 +8,12 @@
     "displayName": "Shopify AI SEO & Liquid",
     "shortDescription": "Audit Shopify robots.txt for AI crawlers, generate Product Schema JSON-LD, and build shoppable blog product cards.",
     "composerIcon": "./assets/icon.svg"
-  }
+  },
+  "skills": [
+    {
+      "name": "shopify-store-audit",
+      "path": "skills/shopify-store-audit/SKILL.md",
+      "description": "Audits any Shopify store for AI shopping readiness (ChatGPT, Grok, Claude), robots.txt crawler blocking, Product Schema JSON-LD health, and blog product card conversion gaps."
+    }
+  ]
 }
