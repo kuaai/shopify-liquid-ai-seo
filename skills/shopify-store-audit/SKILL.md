@@ -1,6 +1,10 @@
 ---
 name: shopify-store-audit
+version: 1.0.0
 description: Audits any Shopify store for AI shopping readiness (ChatGPT, Grok, Claude), robots.txt crawler blocking, Product Schema JSON-LD health, and blog product card conversion gaps.
+author:
+  name: ClickFrom.AI
+  email: dev@clickfrom.ai
 ---
 
 # Shopify Store AI Shopping & Content Audit
