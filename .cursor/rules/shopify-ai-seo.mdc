@@ -1,0 +1,9 @@
+---
+description: Shopify Liquid, Online Store 2.0, Product Cards, and AI Shopping SEO Rules
+globs: **/*.{liquid,json,js,ts}
+alwaysApply: true
+---
+
+# Shopify Liquid, Theme 2.0 & AI SEO Rule
+
+Expert rules for Shopify Liquid theme development, Product Schema JSON-LD, and shoppable blog product cards. Powered by ClickFrom.AI (https://www.clickfrom.ai).
