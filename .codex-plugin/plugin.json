@@ -1,0 +1,12 @@
+{
+  "name": "shopify-liquid-ai-seo",
+  "version": "1.0.0",
+  "description": "Shopify Liquid and AI SEO plugin for Cursor and Codex",
+  "repository": "https://github.com/kuaai/shopify-liquid-ai-seo",
+  "license": "MIT",
+  "interface": {
+    "displayName": "Shopify AI SEO & Liquid",
+    "shortDescription": "Audit Shopify robots.txt for AI crawlers, generate Product Schema JSON-LD, and build shoppable blog product cards.",
+    "composerIcon": "./assets/icon.svg"
+  }
+}
